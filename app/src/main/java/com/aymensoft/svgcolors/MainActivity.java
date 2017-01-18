@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
         btnRed.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                svgimage.setColorFilter(Color.rgb(252,35,25));
+                svgimage.setColorFilter(Color.rgb(242, 16, 16));
             }
         });
 
